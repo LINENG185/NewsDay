@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+   <item android:title="收藏列表"
+    android:id="@+id/item_menu1"
+    android:icon="@mipmap/ic_launcher">
+</item>
+   <item android:title="最近观看"
+       android:id="@+id/item_menu2"
+       android:icon="@mipmap/ic_launcher">
+   </item>
+   <item android:title="关于我们"
+       android:id="@+id/item_menu3"
+       android:icon="@mipmap/ic_launcher">
+   </item>
+</group>
+</menu>
